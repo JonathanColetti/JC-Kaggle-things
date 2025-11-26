@@ -8,3 +8,5 @@
 ## Certificates 
 
 [My Kaggle certificates](https://github.com/JonathanColetti/jc-certs/tree/main/kaggle)
+
+## Misc
